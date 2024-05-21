@@ -7,7 +7,7 @@ Frontend Developer
 i love code !!!
 
 * 🌍  I'm based in Lamongan
-* 🖥️  See my portfolio at [Mywebsite](http://prayogaajitya-s.netlify.app)
+* 🖥️  See my portfolio at [Mywebsite](https://prayogaajityas.vercel.app/)
 * 🧠  I'm learning React Js, Redux
 
 ### Skills

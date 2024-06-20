@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prayoga Ajitya Setiawan
 ===============================================================================================================================================
 
-Frontend Developer
+Frontend Enthusiast🤲
 ------------------
 
 i love code !!!
 
-* 🌍  I'm based in Lamongan
+* 🌍  I'm based in Jakarta
 * 🖥️  See my portfolio at [Mywebsite](https://prayogaajityas.vercel.app/)
 * 🧠  I'm learning React Js, Redux
 
